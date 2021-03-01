@@ -57,6 +57,10 @@
   text-align: center;
 }
 
+.authorName {
+  color:rgb(224, 178, 116);
+}
+
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
