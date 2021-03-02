@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          I do code
+          I do codes
         </p>
 
         {/* <div className={styles.grid}>
