@@ -19,22 +19,12 @@ export default function Home() {
         </p>
 
         {/* <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://www.ericmurr.com" className={styles.card}>
+            <h3>My Website &rarr;</h3>
+            <p>www.ericmurr.com</p>
           </a>
         </div> */}
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://www.codadev.com"
-          target="_blank"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
     </div>
   )
 }
